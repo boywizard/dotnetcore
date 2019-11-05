@@ -8,24 +8,26 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "/home/boywizard/.nuget/packages/": {}
+    "C:\\Users\\happy\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/boywizard/project/dotnetcore/webapp/webapp.csproj",
+      "projectUniqueName": "C:\\project\\dotnetcore\\webapp\\webapp.csproj",
       "projectName": "webapp",
-      "projectPath": "/home/boywizard/project/dotnetcore/webapp/webapp.csproj",
-      "packagesPath": "/home/boywizard/.nuget/packages/",
-      "outputPath": "/home/boywizard/project/dotnetcore/webapp/obj/",
+      "projectPath": "C:\\project\\dotnetcore\\webapp\\webapp.csproj",
+      "packagesPath": "C:\\Users\\happy\\.nuget\\packages\\",
+      "outputPath": "C:\\project\\dotnetcore\\webapp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/boywizard/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\happy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
